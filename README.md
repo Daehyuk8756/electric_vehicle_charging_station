@@ -3,9 +3,9 @@
 In Korean
 서울시내의 전기차 충전소의 최적 위치선정을 위한 코드입니다. 
 실행순서는 
-1. BS_Station_location
-2. CS_Station_location
-3. final_model/buffer_binary_final
+  1) BS_Station_location
+  2) CS_Station_location
+  3) final_model/buffer_binary_final
 
 1. 사용한 데이터 : 서울시 전기차 충전소 리스트, 서울시 버스정류장 위치정보, 서울시 지도 shp
 전기차 충전소 리스트 : 위치정보가 주소로만 저장되어 있음
@@ -36,9 +36,9 @@ coverage : 500M
 In English
 This code is for selecting the optimal location of electric vehicle charging stations in Seoul. 
 The order of execution is... 
-1. BS_Station_location
-2. CS_Station_location
-3. final_model/buffer_binary_final
+  1) BS_Station_location
+  2) CS_Station_location
+  3) final_model/buffer_binary_final
 
 1. Data used: list of electric vehicle charging stations in Seoul, location information of bus stops in Seoul, and map of Seoul. shp
 Electric vehicle charging station list: Location information is stored only as an address.
