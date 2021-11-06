@@ -1,6 +1,6 @@
 # electric_vehicle_charging_station
-*******README******
-In Korean
+*******README******.  
+In Korean.  
 서울시내의 전기차 충전소의 최적 위치선정을 위한 코드입니다. 
 실행순서는 BS_Station_location > CS_Station_location > final_model/buffer_binary_final
 
@@ -30,7 +30,7 @@ coverage : 500M
 두 점 사이의 거리는 각 그리드의 center를 포인트로 반환하고 두 점사이의 유클리드 거리를 구하여 distance_matrix를 구현
 압구정 동에 대해서는 이런 결과값이 나왔으나, 다른 지역을 인풋으로 넣으면 해당 지역의 최적 스테이션 위치가 아웃풋으로 나옴.
 
-In English
+In English.  
 This code is for selecting the optimal location of electric vehicle charging stations in Seoul. 
 The order of execution is... 
 BS_Station_location > CS_Station_location >final_model/buffer_binary_final
